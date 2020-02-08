@@ -7740,22 +7740,27 @@ EOF
         "Linux Mint"* | "LinuxMint"*)
             set_colors 2 7
             read -rd '' ascii_data <<'EOF'
-${c1}MMMMMMMMMMMMMMMMMMMMMMMMMmds+.
-MMm----::-://////////////oymNMd+`
-MMd      ${c2}/++                ${c1}-sNMd:
-MMNso/`  ${c2}dMM    `.::-. .-::.` ${c1}.hMN:
-ddddMMh  ${c2}dMM   :hNMNMNhNMNMNh: ${c1}`NMm
-    NMm  ${c2}dMM  .NMN/-+MMM+-/NMN` ${c1}dMM
-    NMm  ${c2}dMM  -MMm  `MMM   dMM. ${c1}dMM
-    NMm  ${c2}dMM  -MMm  `MMM   dMM. ${c1}dMM
-    NMm  ${c2}dMM  .mmd  `mmm   yMM. ${c1}dMM
-    NMm  ${c2}dMM`  ..`   ...   ydm. ${c1}dMM
-    hMM- ${c2}+MMd/-------...-:sdds  ${c1}dMM
-    -NMm- ${c2}:hNMNNNmdddddddddy/`  ${c1}dMM
-     -dMNs-${c2}``-::::-------.``    ${c1}dMM
-      `/dMNmy+/:-------------:/yMMM
-         ./ydNMMMMMMMMMMMMMMMMMMMMM
-            .MMMMMMMMMMMMMMMMMMM
+${c2}               ...--:::::--... 
+${c2}            .-MMMMMMMMMMMMMMMMM-.
+        .-MMMMM${c1}`..--:::::--..`${c2}MMMMM-.   
+      .:MMMMM${c1}.:MMMMMMMMMMMMMMM:.${c2}MMMMM:.
+    .-MMMM${c1}`-MMMMMMMMMMMMMMMMMMMMM-`${c2}MMMM-.
+   -MMMM${c1}-MM---MMMMMMMMMMMMMMMMMMMMM.${c2}MMMM-
+ `:MMM${c1}`:MMM${c2}${c2}`MM:${c1}MMMM:....::-...-MMMMM:`${c2}MMM:`
+ :MMMM${c1}:MMMM${c2}${c2}`MM:${c1}MM${c2}:`MM``MMMM``MM`:${c1}MMMM:${c2}MMMM:
+.MMMM${c1}.MMMMM${c2}${c2}`MM:${c1}MM${c2}.MM-${c1}MM${c2}.MM.${c1}MM${c2}-MM`${c1}MMMMM.${c2}MMMM.
+:MMMM${c1}:MMMMM${c2}${c2}`MM:${c1}MM${c2}.MM-${c1}MM${c2}-MM.${c1}MM${c2}:MM`${c1}MMMMM-${c2}MMMM:
+:MMMM${c1}:MMMMM${c2}${c2}`MM:${c1}MM${c2}.MM-${c1}MM${c2}-MM.${c1}MM${c2}:MM`${c1}MMMMM:${c2}MMMM:
+:MMMM${c1}:MMMMM${c2}${c2}`MM:${c1}MM${c2}.MM-${c1}MM${c2}-MM.${c1}MM${c2}:MM`${c1}MMMMM-${c2}MMMM:
+.MMMM${c1}.MMMMM${c2}${c2}`MM:${c1}MM${c2}:--:${c1}MM${c2}:--:${c1}MM${c2}:MM`${c1}MMMMM.${c2}MMMM.
+ :MMMM${c1}:MMMM${c2}-MM`-${c1}MMMMMMMMMMMM-${c2}`MM-${c1}MMMM-${c2}MMMM:
+  :MMMM${c1}:MMMM${c2}:`MMMMMMMMMMMMMMMM`:${c1}MMMM:${c1}${c2}MMMM:
+   .MMMM${c1}.MMMMMM${c2}:------------:${c1}MMMMMM.${c2}MMMM.
+    '-MMMM${c1}`-MMMMMMMMMMMMMMMMMMMMMM-`${c2}MMMM-'
+      '-MMMMM${c1}.-MMMMMMMMMMMMMMMM-.${c2}MMMMM-'
+        '.-MMMMM${c1}```--::::--```${c2}MMMMM-.'
+          ${c2}  '-MMMMMMMMMMMMMMMMM-'
+           ${c2}    ```--:::::--```
 EOF
         ;;
 
