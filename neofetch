@@ -7758,7 +7758,7 @@ ${c2}          .-MMMMMMMMMMMMMMM-.
      '-MMMM${c1}.-MMMMMMMMMMMMMMM-.${c2}MMMM-'
        '.-MMMM${c1}``--:::::--``${c2}MMMM-.'
 ${c2}            '-MMMMMMMMMMMMM-'
-${c2}               ``-:::::-``
+${c2}              ```-:::::-```
 EOF
         ;;
 
